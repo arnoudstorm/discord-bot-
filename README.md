@@ -1,4 +1,4 @@
-# NL-bot-V3 (Frutnut)
+# NL-bot-V3 
 
 NL-bot-V3 is a Discord bot built for the NL Oost community. It includes moderation tools, leveling, self-roles, economy features, and fun mini-games.
 
